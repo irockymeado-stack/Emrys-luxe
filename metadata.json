@@ -1,0 +1,7 @@
+{
+  "name": "Emrys Luxe",
+  "description": "A high-end Point of Sale system for Emrys Luxury clothing brand, featuring inventory management, BLE thermal printing, and invoicing.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
